@@ -1,2 +1,11 @@
 Id,Product_name,Product_type,ap_coin,mrp,Image
-1,Reattempt Question,Questions,100,5,
+1,Reattempt Question,Questions,100,5,https://raw.githubusercontent.com/Aptee/Aptee_Data/main/website_images/Reattempt_Question.png
+2,Reattempt Quiz,Quiz,1500,75,https://raw.githubusercontent.com/Aptee/Aptee_Data/main/website_images/Reattempt_Quiz2.png
+3,Generate Quiz,Quiz,,100,https://raw.githubusercontent.com/Aptee/Aptee_Data/main/website_images/Generate_Quiz.png
+4,Buy Answer,Solutions,5000,250,https://raw.githubusercontent.com/Aptee/Aptee_Data/main/website_images/Answer_Booklet.png
+5,Turn Questions Into Answers,Post Questions,5000,250,https://raw.githubusercontent.com/Aptee/Aptee_Data/main/website_images/PostQuestionsIntoBlog.png
+6,Coin Bundle50,Coin,,50,https://raw.githubusercontent.com/Aptee/Aptee_Data/main/website_images/Bundle_of_Coin.png
+7,Coin Bundle100,Coin,,100,https://raw.githubusercontent.com/Aptee/Aptee_Data/main/website_images/Bundle_of_Coin.png
+8,Coin Bundle500,Coin,,500,https://raw.githubusercontent.com/Aptee/Aptee_Data/main/website_images/Bundle_of_Coin.png
+9,Coin Bundle1000,Coin,,100,https://raw.githubusercontent.com/Aptee/Aptee_Data/main/website_images/Bundle_of_Coin.png
+10,Generate Recommended Quiz,Quiz,2000,100,,https://raw.githubusercontent.com/Aptee/Aptee_Data/main/website_images/Generate_Quiz.png
